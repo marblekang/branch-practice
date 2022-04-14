@@ -1,3 +1,5 @@
-magic_num =3
-if magin_num%3==0:
+
+for i in range(1,10+1):
+if i%3 ==0:
 print('hello')
+

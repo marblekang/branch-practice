@@ -4,4 +4,5 @@ if i%3 ==0:
 print('hello'.format(i))
 elif i%5==0:
     print('{}world'.fotamt(i))
-
+    else:
+        print(i)
